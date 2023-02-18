@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://frankeeef.github.io/csb-to1bqf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://frankeeef.github.io/csb-to1bqf/static/js/main.f713b9ed.chunk.js",
+    "main.js.map": "https://frankeeef.github.io/csb-to1bqf/static/js/main.f713b9ed.chunk.js.map",
+    "runtime-main.js": "https://frankeeef.github.io/csb-to1bqf/static/js/runtime-main.a410511a.js",
+    "runtime-main.js.map": "https://frankeeef.github.io/csb-to1bqf/static/js/runtime-main.a410511a.js.map",
+    "static/js/2.594ab88a.chunk.js": "https://frankeeef.github.io/csb-to1bqf/static/js/2.594ab88a.chunk.js",
+    "static/js/2.594ab88a.chunk.js.map": "https://frankeeef.github.io/csb-to1bqf/static/js/2.594ab88a.chunk.js.map",
+    "index.html": "https://frankeeef.github.io/csb-to1bqf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://frankeeef.github.io/csb-to1bqf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.594ab88a.chunk.js.LICENSE.txt": "https://frankeeef.github.io/csb-to1bqf/static/js/2.594ab88a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a410511a.js",
+    "static/js/2.594ab88a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f713b9ed.chunk.js"
+  ]
+}
